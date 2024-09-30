@@ -6,4 +6,3 @@ export default function calculateTotal(purchases, applyDiscount) {
   }
   return sum;
 }
-
