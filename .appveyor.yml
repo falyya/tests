@@ -1,0 +1,11 @@
+iamge: Ubuntu1804
+stak: node 12
+branches:
+  only:
+    - main
+cache: node_modules
+install:
+  - npm install
+build: off
+test_script:
+  - npm run lint &&npm test      
