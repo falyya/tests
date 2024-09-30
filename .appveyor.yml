@@ -1,4 +1,4 @@
-iamge: Ubuntu1804
+image: Ubuntu1804
 stak: node 12
 branches:
   only:
